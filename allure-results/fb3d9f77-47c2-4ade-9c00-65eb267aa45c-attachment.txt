@@ -1,0 +1,10 @@
+[
+  'ZARA COAT 3',
+  'ADIDAS ORIGINAL',
+  'IPHONE 13 PRO',
+  'Fav Gucci',
+  'Fav Gucci',
+  'Fav Gucci',
+  'Fav Gucci'
+]
+ | 68720c2c6eb3777530965b1b | 

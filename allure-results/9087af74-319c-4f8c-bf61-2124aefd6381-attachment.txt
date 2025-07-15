@@ -1,0 +1,12 @@
+{
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjBjN2JmMTQ4NzY3ZjFmMTIxNWQyY2EiLCJ1c2VyRW1haWwiOiJhbnNoaWthQGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjk4NzY1NDMyMTAsImlhdCI6MTc1MjMwNDY4NiwiZXhwIjoxNzgzODYyMjg2fQ.n5-oUN_T7DlBqYY-7rjCxvOy7UjyxdQHYhsaJ1pC_EE',
+  userId: '620c7bf148767f1f1215d2ca',
+  message: 'Login Successfully'
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjBjN2JmMTQ4NzY3ZjFmMTIxNWQyY2EiLCJ1c2VyRW1haWwiOiJhbnNoaWthQGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjk4NzY1NDMyMTAsImlhdCI6MTc1MjMwNDY4NiwiZXhwIjoxNzgzODYyMjg2fQ.n5-oUN_T7DlBqYY-7rjCxvOy7UjyxdQHYhsaJ1pC_EE
+{
+  orders: [ '68720c2e6eb3777530965b3d' ],
+  productOrderId: [ '67a8dde5c0d3e6622a297cc8' ],
+  message: 'Order Placed Successfully'
+}
+68720c2e6eb3777530965b3d

@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "PlaywrightAutomation",
+			"path": ".."
+		},
+		{
+			"name": "pageobjects_ts",
+			"path": "../../../../Downloads/PlayWrightAutomation/pageobjects_ts"
+		},
+		{
+			"name": "pageobjects",
+			"path": "../../../../Desktop/pageobjects"
+		},
+		{
+			"path": "../../../../Downloads/PlayWrightAutomation/utils_ts"
+		},
+		{
+			"path": "../../../../Downloads/PlayWrightAutomation/features"
+		}
+	],
+	"settings": {}
+}
