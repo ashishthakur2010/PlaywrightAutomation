@@ -33,10 +33,11 @@ module.exports = defineConfig({
     "src/tests/**/*.spec.ts"
   ],
   reporter: [
-    ['html'],
-    ['junit'],
-    ['json'],
-    ['allure-playwright', { outputFolder: 'allure-results' }]
+    // ['html'],
+    // ['junit'],
+    // ['json'],
+    ['allure-playwright', { outputFolder: 'allure-results' }],
+    ['list']
   ],
   timeout: 30 * 1000,
   expect: {
