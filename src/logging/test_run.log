@@ -47,3 +47,1070 @@
 2025-07-16T23:40:12+05:30 [info]: Navigated to login.salesforce.com
 2025-07-16T23:40:12+05:30 [info]: Found valid element with locator: #username
 2025-07-16T23:40:13+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:49:26+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:49:26+05:30 [info]: Found valid element with locator: #username
+2025-07-16T23:49:26+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:49:26+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:50:22+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:50:23+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:50:23+05:30 [info]: Found valid element with locator: #username
+2025-07-16T23:50:24+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:51:04+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:51:07+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:51:07+05:30 [info]: Navigated to login.salesforce.com
+2025-07-16T23:51:07+05:30 [info]: Found valid element with locator: #username
+2025-07-17T00:00:36+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:00:38+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:00:38+05:30 [info]: Found valid element with locator: #username
+2025-07-17T00:00:38+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:01:36+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:01:39+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:01:39+05:30 [info]: Found valid element with locator: #username
+2025-07-17T00:01:40+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:19:16+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:19:19+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T00:19:19+05:30 [info]: Found valid element with locator: #username
+2025-07-17T00:19:20+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2025-07-17T03:45:32+05:30 [info]: Response status is 301
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/runtime.34c0b0600012d18074e4.js
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/scripts.f335373444f21b6a8037.js
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/main.debaae36313b48de71b3.js
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/135.bef323e148fc6976570e.js
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://i.ibb.co/q7PTcrL/bg.webp
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0
+2025-07-17T03:45:32+05:30 [info]: Requested method is GET
+2025-07-17T03:45:32+05:30 [info]: Request headers is {
+  "origin": "https://rahulshettyacademy.com",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-07-17T03:45:32+05:30 [info]: Response status is 200
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "x-custom-header": "integration-check"
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:32+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:33+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:33+05:30 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "referer": "https://rahulshettyacademy.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:33+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://rahulshettyacademy.com",
+  "referer": "https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"HeadlessChrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-07-17T03:45:40+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:45:40+05:30 [info]: Found valid element with locator: #username
+2025-07-17T03:45:40+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:45:40+05:30 [info]: Filled username
+2025-07-17T03:45:40+05:30 [info]: Filled pasword
+2025-07-17T03:45:41+05:30 [info]: Clicked login button
+2025-07-17T03:45:42+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:45:44+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:45:46+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:45:46+05:30 [info]: Filled username
+2025-07-17T03:45:46+05:30 [info]: Filled pasword
+2025-07-17T03:45:46+05:30 [info]: Clicked login button
+2025-07-17T03:45:56+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:45:58+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:45:58+05:30 [info]: Filled username
+2025-07-17T03:45:58+05:30 [info]: Filled pasword
+2025-07-17T03:45:58+05:30 [info]: Clicked login button
+2025-07-17T03:46:01+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:46:03+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:46:03+05:30 [info]: Filled username
+2025-07-17T03:46:03+05:30 [info]: Filled pasword
+2025-07-17T03:46:04+05:30 [info]: Clicked login button
+2025-07-17T03:46:14+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:46:19+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "upgrade-insecure-requests": "1",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "sec-fetch-user": "?1"
+}
+2025-07-17T03:49:51+05:30 [info]: Response status is 301
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive"
+}
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/runtime.34c0b0600012d18074e4.js
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/scripts.f335373444f21b6a8037.js
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/main.debaae36313b48de71b3.js
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "style",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/135.bef323e148fc6976570e.js
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://i.ibb.co/q7PTcrL/bg.webp
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "i.ibb.co",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/",
+  "sec-fetch-dest": "image",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "cross-site"
+}
+2025-07-17T03:49:51+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0
+2025-07-17T03:49:51+05:30 [info]: Requested method is GET
+2025-07-17T03:49:51+05:30 [info]: Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+  "accept-language": "en-US",
+  "accept-encoding": "identity",
+  "connection": "keep-alive",
+  "referer": "https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css",
+  "sec-fetch-dest": "font",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-site": "same-origin"
+}
+2025-07-17T03:49:51+05:30 [info]: Response status is 200
+2025-07-17T03:49:52+05:30 [info]: Response status is 200
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "upgrade-insecure-requests": "1",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "sec-fetch-user": "?1",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "upgrade-insecure-requests": "1",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "sec-fetch-user": "?1",
+  "connection": "keep-alive",
+  "x-custom-header": "integration-check"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "style",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "i.ibb.co",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+  "accept-language": "en-US",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "referer": "https://rahulshettyacademy.com/",
+  "sec-fetch-dest": "image",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "cross-site",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:49:52+05:30 [info]: Modified Request headers is {
+  "host": "rahulshettyacademy.com",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0.2) Gecko/20100101 Firefox/140.0.2",
+  "accept": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8",
+  "accept-language": "en-US",
+  "accept-encoding": "identity",
+  "referer": "https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css",
+  "sec-fetch-dest": "font",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-site": "same-origin",
+  "connection": "keep-alive"
+}
+         Modified Request type is GET
+2025-07-17T03:50:04+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:50:04+05:30 [info]: Filled username
+2025-07-17T03:50:04+05:30 [info]: Filled pasword
+2025-07-17T03:50:04+05:30 [info]: Clicked login button
+2025-07-17T03:50:19+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:50:22+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:50:22+05:30 [info]: Filled username
+2025-07-17T03:50:22+05:30 [info]: Filled pasword
+2025-07-17T03:50:23+05:30 [info]: Clicked login button
+2025-07-17T03:50:38+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:50:38+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:50:38+05:30 [info]: Found valid element with locator: #username
+2025-07-17T03:50:39+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:50:42+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:50:42+05:30 [info]: Filled username
+2025-07-17T03:50:42+05:30 [info]: Filled pasword
+2025-07-17T03:50:42+05:30 [info]: Clicked login button
+2025-07-17T03:50:42+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:50:57+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:51:00+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:51:00+05:30 [info]: Filled username
+2025-07-17T03:51:00+05:30 [info]: Filled pasword
+2025-07-17T03:51:01+05:30 [info]: Clicked login button
+2025-07-17T03:51:16+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Response status is 301
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "accept-language": "en-US",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15"
+}
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "style",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/runtime.34c0b0600012d18074e4.js
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/scripts.f335373444f21b6a8037.js
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/main.debaae36313b48de71b3.js
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/135.bef323e148fc6976570e.js
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:34+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js
+2025-07-17T03:53:34+05:30 [info]: Requested method is GET
+2025-07-17T03:53:34+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:34+05:30 [info]: Response status is 200
+2025-07-17T03:53:35+05:30 [info]: Requested Url is https://rahulshettyacademy.com/client/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0
+2025-07-17T03:53:35+05:30 [info]: Requested method is GET
+2025-07-17T03:53:35+05:30 [info]: Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "font",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:35+05:30 [info]: Requested Url is https://i.ibb.co/q7PTcrL/bg.webp
+2025-07-17T03:53:35+05:30 [info]: Requested method is GET
+2025-07-17T03:53:35+05:30 [info]: Request headers is {
+  "accept": "image/webp,image/avif,image/jxl,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+  "referer": "https://rahulshettyacademy.com/",
+  "sec-fetch-dest": "image",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "cross-site",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+2025-07-17T03:53:35+05:30 [info]: Response status is 200
+2025-07-17T03:53:35+05:30 [info]: Response status is 200
+2025-07-17T03:53:36+05:30 [info]: Modified Request headers is {
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:36+05:30 [info]: Modified Request headers is {
+  "pragma": "no-cache",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "cache-control": "no-cache",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "accept-language": "en-US",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "x-custom-header": "integration-check"
+}
+         Modified Request type is GET
+2025-07-17T03:53:36+05:30 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "style",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:36+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:36+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:36+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:36+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:37+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:37+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:37+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "script",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:37+05:30 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "referer": "https://rahulshettyacademy.com/client/",
+  "sec-fetch-dest": "font",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:37+05:30 [info]: Modified Request headers is {
+  "accept": "image/webp,image/avif,image/jxl,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+  "referer": "https://rahulshettyacademy.com/",
+  "sec-fetch-dest": "image",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-site": "cross-site",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+  "cache-control": "no-cache",
+  "pragma": "no-cache",
+  "accept-language": "en-US"
+}
+         Modified Request type is GET
+2025-07-17T03:53:51+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:53:51+05:30 [info]: Filled username
+2025-07-17T03:53:51+05:30 [info]: Filled pasword
+2025-07-17T03:53:52+05:30 [info]: Clicked login button
+2025-07-17T03:54:07+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:54:10+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:54:10+05:30 [info]: Filled username
+2025-07-17T03:54:10+05:30 [info]: Filled pasword
+2025-07-17T03:54:11+05:30 [info]: Clicked login button
+2025-07-17T03:54:24+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:54:24+05:30 [info]: Found valid element with locator: #username
+2025-07-17T03:54:26+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:54:26+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:54:31+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:54:31+05:30 [info]: Filled username
+2025-07-17T03:54:31+05:30 [info]: Filled pasword
+2025-07-17T03:54:31+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:54:31+05:30 [info]: Clicked login button
+2025-07-17T03:54:46+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-07-17T03:54:50+05:30 [info]: Navigated to login.salesforce.com
+2025-07-17T03:54:50+05:30 [info]: Filled username
+2025-07-17T03:54:50+05:30 [info]: Filled pasword
+2025-07-17T03:54:51+05:30 [info]: Clicked login button
+2025-07-17T03:55:06+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+

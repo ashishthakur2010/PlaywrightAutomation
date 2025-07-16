@@ -1,11 +1,20 @@
 import { test, expect, request } from '@playwright/test'
 import { APiUtilities } from './utils/APiUtilities';
+
 const LoginData = {
   userEmail: "anshika@gmail.com",
   userPassword: "Iamking@000"
 }
+
 const orderData = {
   orders: [{ country: "Bahrain", productOrderedId: "67a8dde5c0d3e6622a297cc8" }]
+}
+
+// Mock payload for orders
+const fakePayLoadOrders = {
+  data: [],
+  message: "No Orders",
+  count: 0
 }
 
 let responce;

@@ -2,7 +2,7 @@ import { test, expect } from "@playwright/test";
 import LoginPage from "../pages/LoginPage";
 
 test("Verify Logo Placement and Size", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("https://rahulshettyacademy.com/client");
     const logo = await page.getByAltText('Salesforce');
     const boundingBox = await logo?.boundingBox();
     if (boundingBox) {
@@ -13,7 +13,7 @@ test("Verify Logo Placement and Size", async ({ page }) => {
 });
 
 test("Confirm logo Color", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("https://rahulshettyacademy.com/client");
     const logo = await page.getByAltText('Salesforce');
 
     // Get the computed style of the button
@@ -31,7 +31,7 @@ test("Confirm logo Color", async ({ page }) => {
 
 
 test('Screenshot compare test', async ({ page }) => {
-    await page.goto('/');
+    await page.goto('https://rahulshettyacademy.com/client');
     const loginPage = new LoginPage(page);
     await loginPage.fillUsername("demo");
     await expect(page).toHaveScreenshot();

@@ -14,7 +14,7 @@ test("API Monitoring test", async ({ page }) => {
         logger.info(`Response status is ${response.status()}`);
     });
 
-    await page.goto("/");
+    await page.goto("https://rahulshettyacademy.com/client");
 });
 
 test("API Intercepting test", async ({ page }) => {
@@ -40,7 +40,7 @@ test("API Intercepting test", async ({ page }) => {
         );
     })
 
-    await page.goto("/");
+    await page.goto("https://rahulshettyacademy.com/client");
     await page.waitForLoadState('networkidle');
 
 

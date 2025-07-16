@@ -4,7 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "allure:report": "allure serve allure-results"
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:ui": "npx playwright test --ui",
+    "test:chromium": "npx playwright test --project=chromium",
+    "test:firefox": "npx playwright test --project=firefox",
+    "test:webkit": "npx playwright test --project=webkit",
+    "test:api": "npx playwright test --grep @API",
+    "test:web": "npx playwright test --grep @Web",
+    "allure:report": "allure serve allure-results",
+    "report": "npx playwright show-report"
   },
   "keywords": [],
   "author": "",

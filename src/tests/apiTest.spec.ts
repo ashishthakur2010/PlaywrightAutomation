@@ -3,7 +3,7 @@ import { test, expect } from "@playwright/test";
 test("API test with existing context", async ({ page }) => {
     const context = page.request;
 
-    const response = await (await context.get("/api/users?page=2")).json();
+    const response = await (await context.get("https://reqres.in/api/users?page=2")).json();
     console.log(response);
     expect(response).toHaveProperty("page");
     expect(response).toHaveProperty("per_page");
