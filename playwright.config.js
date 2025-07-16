@@ -27,6 +27,7 @@ if (!process.env.NODE_ENV) {
 module.exports = defineConfig({
   // Set testDir to the root or common parent directory
   testDir: '.',
+  fullyParallel: true,
   // Use testMatch to include tests from both folders
   testMatch: [
     "tests/**/*.spec.js",
@@ -44,10 +45,14 @@ module.exports = defineConfig({
     timeout: 10000,
   },
   use: {
-    browserName: 'chromium',
-    baseURL: 'https://orgfarm-d2d41abef6-dev-ed.develop.my.salesforce.com/',
-    headless: false,
+    // browserName: 'chromium',
+    // baseURL: 'https://orgfarm-d2d41abef6-dev-ed.develop.my.salesforce.com/',
+    // headless: false,
+    // screenshot: 'only-on-failure',
+    // trace: 'on',
+    connectOptions: {
+      wsEndpoint: 'ws://localhost:3000'
+    },
     screenshot: 'only-on-failure',
-    trace: 'on',
   },
 });

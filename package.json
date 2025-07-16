@@ -3,17 +3,19 @@
   "version": "2.1.1",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "allure:report": "allure serve allure-results"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "@playwright/test": "^1.53.1",
+    "@playwright/test": "^1.54.0",
     "@types/crypto-js": "^4.2.2",
     "@types/node": "^24.0.4",
     "allure-playwright": "^3.3.0",
-    "playwright": "^1.54.1"
+    "playwright": "^1.54.0"
   },
   "dependencies": {
     "crypto-js": "^4.2.0",
